@@ -33,7 +33,7 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 - Incorrect IPV4 address
 - Incorrect host gateway
 - Incorrect access/trunk ports
-- Among other specific errors
+- Among other errors
 \
 \
 \
