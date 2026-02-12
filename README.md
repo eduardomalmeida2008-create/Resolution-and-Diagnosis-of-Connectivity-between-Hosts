@@ -39,3 +39,22 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 \
 Check the switch and router settings:
 ![SWITCH](05-Configuration-Switch.png) ![ROTEADOR](04-Configuration_Router.png)
+\
+As we can see:
+
+- Trunking configured correctly
+- VLANs created correctly
+- Ethernet ports activated correctly
+- Encapsulation of the “client” department configured correctly on the router
+
+However, as we can see, the encapsulation of the “servers” department is not configured correctly, as the following are missing:
+
+- Gateway and subnet mask applied
+
+
+Why apply?
+- The subnet mask works to define network limits, so that the host or router can identify: “is this destination on my local network or outside it?”
+
+- The gateway acts as a “gateway” for the network, through which hosts can connect to the internet.
+
+- Encapsulation works as a “traffic identifier.” When there are several departments or more than one, encapsulation is necessary to label the departments so that when traffic travels on the network, it will know where to go and which department to go to by identifying the department's TAG.
