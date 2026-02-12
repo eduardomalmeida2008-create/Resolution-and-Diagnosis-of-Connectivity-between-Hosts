@@ -9,6 +9,9 @@ PROBLEM:
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
 
 
+
+
+
 TOPOLOGY AND DIAGRAM:
 
 
