@@ -9,7 +9,7 @@ PROBLEM:
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
 
 
-
+````
 
 
 TOPOLOGY AND DIAGRAM:
@@ -25,3 +25,4 @@ Device model and brands:
 Switch 2960-24TT (CISCO)
 Router 2911 (CISCO)
 Generic PCs (CISCO)
+````
