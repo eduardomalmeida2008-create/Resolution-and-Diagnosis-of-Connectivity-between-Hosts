@@ -7,9 +7,10 @@ PROBLEM:
 ![Ping ICMP PC1](06-TestPing-PC1.png) ![Ping ICMP PC2](07-TestPing-PC2.png)
 
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
+-
+-
+-
 
-
-````
 
 
 TOPOLOGY AND DIAGRAM:
@@ -25,4 +26,3 @@ Device model and brands:
 Switch 2960-24TT (CISCO)
 Router 2911 (CISCO)
 Generic PCs (CISCO)
-````
