@@ -55,6 +55,6 @@ However, as we can see, the encapsulation of the “servers” department is not
 Why add them?
 - The subnet mask works to define network limits, so that the host or router can identify: “is this destination on my local network or outside it?”
 
-- The gateway acts as a “gateway” for the network, through which hosts can connect to the internet.
+- The router's IP acts as a “gateway” for the network, allowing hosts to connect to the internet.
 
 - Encapsulation works as a “traffic identifier.” When there are several departments or more than one, encapsulation is necessary to label the departments so that when traffic travels on the network, it will know where to go and which department to go to by identifying the department's TAG.
