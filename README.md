@@ -6,12 +6,14 @@ PROBLEM:
 
 ![Ping ICMP PC1](06-TestPing-PC1.png) ![Ping ICMP PC2](07-TestPing-PC2.png)
 
-
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
 
 
+TOPOLOGY
+![TOPOLOGY](01-Topology_Overview.png) 
 
-![TOPOLOGY](01-Topology_Overview.png) ![DIAGRAM](08-Diagram.png)
+DIAGRAM
+![DIAGRAM](08-Diagram.png)
 
 As shown, these images would be the visual part of the network topology and diagram. Where it shows information about:
 - Routing List between Devices
