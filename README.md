@@ -58,3 +58,6 @@ Why add them?
 - The router's IP acts as a “gateway” for the network, allowing hosts to connect to the internet.
 
 - Encapsulation works as a “traffic identifier.” When there are several departments or more than one, encapsulation is necessary to label the departments so that when traffic travels on the network, it will know where to go and which department to go to by identifying the department's TAG.
+  \
+  \
+  ![PC1](02-IPconfiguration_PC1.png) ![PC2](03-IPconfiguration_PC2.png)
