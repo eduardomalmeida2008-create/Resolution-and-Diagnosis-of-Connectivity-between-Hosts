@@ -9,11 +9,10 @@ PROBLEM:
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
 
 
-TOPOLOGY
-![TOPOLOGY](01-Topology_Overview.png) 
+TOPOLOGY AND DIAGRAM:
 
-DIAGRAM
-![DIAGRAM](08-Diagram.png)
+
+![TOPOLOGY](01-Topology_Overview.png) ![DIAGRAM](08-Diagram.png)
 
 As shown, these images would be the visual part of the network topology and diagram. Where it shows information about:
 - Routing List between Devices
