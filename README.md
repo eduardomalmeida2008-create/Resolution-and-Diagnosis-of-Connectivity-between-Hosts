@@ -52,7 +52,7 @@ However, as we can see, the encapsulation of the “servers” department is not
 - Gateway and subnet mask applied
 
 
-Why apply?
+Why add them?
 - The subnet mask works to define network limits, so that the host or router can identify: “is this destination on my local network or outside it?”
 
 - The gateway acts as a “gateway” for the network, through which hosts can connect to the internet.
