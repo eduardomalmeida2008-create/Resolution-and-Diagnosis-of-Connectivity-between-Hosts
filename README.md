@@ -10,7 +10,8 @@ Problem identified in the connectivity test (ICMP) between the department comput
 -
 -
 -
-
+-
+-
 
 
 TOPOLOGY AND DIAGRAM:
