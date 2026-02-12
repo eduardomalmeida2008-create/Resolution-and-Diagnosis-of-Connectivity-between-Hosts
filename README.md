@@ -29,3 +29,23 @@ Device model and brands:
 Switch 2960-24TT (CISCO)
 Router 2911 (CISCO)
 Generic PCs (CISCO)
+
+
+Where is the error and how can it be fixed?
+
+
+What we see is an ICMP connectivity problem for a basic network that has few hosts and only one switch and router to perform routing and connectivity between hosts and departments. We can analyze some possible errors:
+
+
+- Incorrect host subnet mask
+- Incorrect IPV4 address
+- Incorrect host gateway
+- Incorrect access/trunk ports
+- Among other specific errors
+
+-
+-
+-
+
+Check the switch and router settings:
+![SWITCH](05-Configuration-Switch.png) ![ROTEADOR](04-Configuration_Router.png)
