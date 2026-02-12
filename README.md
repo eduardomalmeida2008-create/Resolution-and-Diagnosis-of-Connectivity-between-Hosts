@@ -43,9 +43,10 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 - Incorrect access/trunk ports
 - Among other specific errors
 
--
--
--
+
+\
+\
+\
 
 Check the switch and router settings:
 ![SWITCH](05-Configuration-Switch.png) ![ROTEADOR](04-Configuration_Router.png)
