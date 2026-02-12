@@ -4,6 +4,7 @@ This is a simulated lab in the Cisco Packet Tracer simulator. In this lab, a dia
 \
 \
 PROBLEM:
+\
 ![Ping ICMP PC1](06-TestPing-PC1.png) ![Ping ICMP PC2](07-TestPing-PC2.png)
 \
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
