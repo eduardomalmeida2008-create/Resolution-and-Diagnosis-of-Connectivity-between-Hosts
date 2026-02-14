@@ -61,4 +61,5 @@ Why add them?
   \
   \
   ![PC1](02-IPconfiguration_PC1.png) ![PC2](03-IPconfiguration_PC2.png)
-  
+  \
+  This is also a common problem: different subnet masks on hosts. For both to have connectivity, it is necessary to set similar subnet masks.
