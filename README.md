@@ -87,6 +87,7 @@ Results of implementations:
 \
   ![PC1](Solution4.png) ![PC2](Solution5.png)
 \
+\
 ```
 Results:
 - ICMP connectivity between hosts successfully established.
