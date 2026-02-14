@@ -81,3 +81,12 @@ Second Solution:
 The correct subnet was implemented in the encapsulation of the ‘Servers’ department, thus labeling the department with a correct subnet for identification in network traffic.
 \
 Results of implementations:
+  ![PC1](Solution4.png) ![PC2](Solution5.png)
+\
+```
+Results:
+- ICMP connectivity between hosts successfully established.
+- Correct encapsulation labeling for departments.
+- IPv4 + gateway + subnet mask correctly configured in a logical manner.
+```
+
