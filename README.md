@@ -7,7 +7,9 @@ PROBLEM:
 \
 ![Ping ICMP PC1](06-TestPing-PC1.png) ![Ping ICMP PC2](07-TestPing-PC2.png)
 \
+```
 Problem identified in the connectivity test (ICMP) between the department computer (CLIENTS) and the department computer (SERVERS).
+```
 \
 \
 \
@@ -41,7 +43,9 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 \
 \
 \
+```
 Check the switch and router settings:
+```
 \
 ![SWITCH](05-Configuration-Switch.png) ![ROTEADOR](04-Configuration_Router.png)
 \
@@ -69,7 +73,9 @@ Why add them?
 \
   ![PC1](02-IPconfiguration_PC1.png) ![PC2](03-IPconfiguration_PC2.png)
 \
+```
   This is also a common problem: different subnet masks on hosts. For both to have connectivity, it is necessary to set similar subnet masks.
+```
 \
 \
 First solution:
