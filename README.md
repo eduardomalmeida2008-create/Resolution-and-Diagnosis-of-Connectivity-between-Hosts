@@ -38,6 +38,7 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 \
 \
 Check the switch and router settings:
+\
 ![SWITCH](05-Configuration-Switch.png) ![ROTEADOR](04-Configuration_Router.png)
 \
 As we can see:
@@ -81,6 +82,7 @@ Second Solution:
 The correct subnet was implemented in the encapsulation of the ‘Servers’ department, thus labeling the department with a correct subnet for identification in network traffic.
 \
 Results of implementations:
+\
 \
   ![PC1](Solution4.png) ![PC2](Solution5.png)
 \
