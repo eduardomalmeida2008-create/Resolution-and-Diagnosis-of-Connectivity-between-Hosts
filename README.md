@@ -63,3 +63,12 @@ Why add them?
   ![PC1](02-IPconfiguration_PC1.png) ![PC2](03-IPconfiguration_PC2.png)
   \
   This is also a common problem: different subnet masks on hosts. For both to have connectivity, it is necessary to set similar subnet masks.
+  \
+  \
+Solutions:
+\
+  ![PC1](Solution1.png) ![PC2](Solution2.png)
+\
+The first implementation I did was to replace the PC1 subnet. 
+Before: 255.255.0.0
+After: 255.255.255.0
