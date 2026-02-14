@@ -58,17 +58,26 @@ Why add them?
 - The router's IP acts as a “gateway” for the network, allowing hosts to connect to the internet.
 
 - Encapsulation works as a “traffic identifier.” When there are several departments or more than one, encapsulation is necessary to label the departments so that when traffic travels on the network, it will know where to go and which department to go to by identifying the department's TAG.
-  \
-  \
+\
+\
   ![PC1](02-IPconfiguration_PC1.png) ![PC2](03-IPconfiguration_PC2.png)
-  \
+\
   This is also a common problem: different subnet masks on hosts. For both to have connectivity, it is necessary to set similar subnet masks.
-  \
-  \
-Solutions:
+\
+\
+First solution:
 \
   ![PC1](Solution1.png) ![PC2](Solution2.png)
 \
 The first implementation I did was to replace the PC1 subnet. 
 Before: 255.255.0.0
 After: 255.255.255.0
+\
+\
+Second Solution:
+\
+![PC2](Solution3.png)
+\
+The correct subnet was implemented in the encapsulation of the ‘Servers’ department, thus labeling the department with a correct subnet for identification in network traffic.
+\
+Results of implementations:
