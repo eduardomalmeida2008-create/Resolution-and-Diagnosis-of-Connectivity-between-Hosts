@@ -87,7 +87,9 @@ Second Solution:
 \
 ![PC2](Solution3.png)
 \
+```
 The correct subnet was implemented in the encapsulation of the ‘Servers’ department, thus labeling the department with a correct subnet for identification in network traffic.
+```
 \
 \
 Results of implementations:
