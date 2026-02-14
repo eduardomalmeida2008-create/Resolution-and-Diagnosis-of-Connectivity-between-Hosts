@@ -2,7 +2,6 @@
 This is a simulated lab in the Cisco Packet Tracer simulator. In this lab, a diagnosis and resolution of a connectivity problem was performed, with visual information stored in the repository files.
 \
 \
-\
 PROBLEM:
 \
 ![Ping ICMP PC1](06-TestPing-PC1.png) ![Ping ICMP PC2](07-TestPing-PC2.png)
@@ -40,7 +39,7 @@ What we see is an ICMP connectivity problem for a basic network that has few hos
 ````
 \
 \
-\
+
 ```
 Check the switch and router settings:
 ```
@@ -102,7 +101,6 @@ Results of implementations:
   ![PC1](Solution4.png) ![PC2](Solution5.png)
 \
 \
-
 ```
 Results:
 - ICMP connectivity between hosts successfully established.
