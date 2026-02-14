@@ -12,7 +12,6 @@ Problem identified in the connectivity test (ICMP) between the department comput
 ```
 \
 \
-\
 TOPOLOGY AND DIAGRAM:
 ![TOPOLOGY](01-Topology_Overview.png) ![DIAGRAM](08-Diagram.png)
 \
@@ -26,7 +25,6 @@ Switch 2960-24TT (CISCO)
 Router 2911 (CISCO)
 Generic PCs (CISCO)
 ````
-\
 \
 \
 ````
